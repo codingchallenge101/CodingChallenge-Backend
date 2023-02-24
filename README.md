@@ -9,6 +9,8 @@ Deployed Frontend URL to ECS
 
 
 BLOCKER IN THIS PRODUCTION
+
+
 "First of all there are CORS allowed in the backend and when frontend try top hit the backend it fails due to CORS error because it hit on secure connection panel and HTTP isnt secure and we dont have a domain for redirection ,if we redirect the domain over HTTPS that issue would be resolved automatially in a blink of eye"
 
 
